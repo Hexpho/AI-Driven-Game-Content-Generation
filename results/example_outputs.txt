@@ -1,2 +1,46 @@
-Sample outputs will appear here after running the demo scripts.
-You can paste real generations or tables exported from the notebook.
+=== EDUCATIONAL GAME SCENARIO: "Digital Realm of Knowledge" ===
+
+Q: What is a variable in Python?
+A: A variable is a named reference to a value in memory. Use '=' to assign.
+
+Q: How do loops work?
+A: Use 'for' for iteration over sequences; use 'while' for condition-based repetition.
+
+Q: What are functions?
+A: Functions group reusable logic. Define with 'def' and return values using 'return'.
+
+Q: What is the difference between a list and a tuple?
+A: Lists are mutable (changeable), tuples are immutable (fixed). Choose based on need.
+
+Q: How can I handle errors in Python?
+A: Use try/except blocks. For example:
+   try:
+       x = int("abc")
+   except ValueError:
+       print("Conversion failed.")
+
+---
+
+=== SCI-FI GAME SCENARIO: "Beyond the Known" ===
+
+Q: We are nearing the wormhole. Any readings?
+A: Sensors detect high curvature; recommend stabilizing the Einstein–Rosen aperture before entry.
+
+Q: Is there intelligent life on this planet?
+A: Bio-signatures detected: methane fluctuations and irregular heat maps suggest microbial activity.
+
+Q: Our shields are depleting. What are our options?
+A: Divert power from sub-light engines; polarize hull plating; deploy decoy drones.
+
+Q: Can you analyze this alien artifact?
+A: The object emits low-frequency electromagnetic pulses — non-terrestrial alloy composition detected.
+
+Q: Tell me about quantum teleportation.
+A: Teleportation transfers quantum states, not matter; requires entanglement and classical communication.
+
+---
+
+Generated using simplified GPT-2 based content generation scripts aligned with the bachelor thesis:
+"Developing a Model for AI-Driven Game Design Process"
+by Baturalp Bilen Burmaoglu (Riga Technical University, 2024)
+
