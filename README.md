@@ -20,7 +20,7 @@ It explores how Artificial Intelligence (AI) can be integrated with game design 
 - `requirements.txt` – dependencies
 - `.gitignore` – common ignores
 
-## 🚀 Quickstart
+##  Quickstart
 ```bash
 python -m venv .venv
 source .venv/bin/activate  # Windows: .venv\Scripts\activate
@@ -33,7 +33,11 @@ python src/educational_game_scenario.py
 python src/scifi_game_scenario.py
 ```
 
-> **Note:** The scripts are lightweight, self‑contained demos aligned with the thesis. 
+> **Note:**   If the notebook preview does not render properly on GitHub, you can still open it in **Google Colab**.  
+Click the file name above → **“Raw”** → copy the URL of the raw file,  
+then open [Google Colab](https://colab.research.google.com/),  
+go to **File → Open notebook → GitHub**, and paste that URL to view the full notebook interactively.
+>The scripts are lightweight, self‑contained demos aligned with the thesis. 
 > For full experiments (parameter sweeps, figures, tables), use the notebook in `thesis/Batu_Bachelor_Thesis.ipynb`.
 
 ## 📚 Citation
