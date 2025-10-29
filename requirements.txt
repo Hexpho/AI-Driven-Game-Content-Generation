@@ -1,0 +1,8 @@
+torch
+transformers
+sentence-transformers
+nltk
+rouge-score
+scikit-learn
+pandas
+matplotlib
